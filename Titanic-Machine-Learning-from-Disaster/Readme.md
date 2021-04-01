@@ -1,4 +1,4 @@
-Survival Prediction in Disaster using Machine Learning.
+# Survival Prediction in Disaster using Machine Learning.
 
 1.Data analysis and manipulation to predict the survival of passengers based on datasets.
 
@@ -6,5 +6,5 @@ Survival Prediction in Disaster using Machine Learning.
 
 3.Evaluating the algorithms based on cross-validation score and got the accuracy of 0.78947.
 
-Competition link -
+# Competition link -
 https://www.kaggle.com/c/titanic
