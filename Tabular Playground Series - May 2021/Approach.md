@@ -6,4 +6,4 @@
    1. No missing values in the dataset
    1. All the columns are of type integer
 1. Applied various Machine Learning Algorithms like CatBoost, XGBoost to find the better scores.
-1. Applied H2O AutoML on the dataset.
+1. Applied H2O and light AutoML on the dataset.
